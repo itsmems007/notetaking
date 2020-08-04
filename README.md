@@ -2,7 +2,8 @@
 Build a react note taking app where user can edit,delete and save the notes.
 
 # Demo
-https://itsmems007.github.io/notetaking/
+https://react-note-taking.netlify.app/
+https://github.com/itsmems007
 
 # Requirements
 node.js
