@@ -8,8 +8,4 @@ https://github.com/itsmems007
 # Requirements
 node.js
 
-## Modules to be install
-dayjs <br>
-pouchdb <br>
-pouchdb moment <br>
-marked 
+
